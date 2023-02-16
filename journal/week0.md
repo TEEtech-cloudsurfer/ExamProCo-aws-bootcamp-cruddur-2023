@@ -8,11 +8,15 @@ This week's focus is about implementing the foundations of the Cloud Project Boo
 * Generate AWS credentials.
 * Create a logical and conceptual diagram of the Cruddar App and CICD pipeline.
 
+
+#### AWS CLI Installation
 *I have had the AWS CLI downloaded for sometime now, so as directed here is proof of the CLI on my system:*
 ![AWS CLI Verification](https://github.com/minoriTEEtech/ExamProCo-aws-bootcamp-cruddur-2023/blob/main/journal/awsCLI.png)
 
+
+#### AWS Credentials
 *AWS Credentials Verification*
-![Proof of credentials](https://github.com/minoriTEEtech/ExamProCo-aws-bootcamp-cruddur-2023/blob/main/journal/AWScredentials.png)
+![](https://github.com/minoriTEEtech/ExamProCo-aws-bootcamp-cruddur-2023/blob/main/journal/AWScredentials.png)
 
 
 
