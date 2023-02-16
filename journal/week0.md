@@ -20,6 +20,8 @@ This week's focus is about implementing the foundations of the Cloud Project Boo
 
 
 
+
+
 ## Architectural Logical Diagram of Cruddar App & CI/CD pipeline Diagram
 
 ![Logical Diagram of Cruddar App](https://lucid.app/publicSegments/view/c9109095-2131-4ff1-9727-e42182d02d4a/image.png)
